@@ -136,8 +136,4 @@ If that sounds like something you want too — feel free to use this config, for
 ## 📜 License / Disclaimer
 
 Use at your own risk. This config is provided "as is." I maintain it for **my personal use**, but welcome suggestions and improvements from the community.
-```
-MIT License
-```
-
 ---
