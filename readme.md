@@ -39,7 +39,8 @@
 ## ⚙️ Installation (on a new machine)
 ```bash
 # 1. Clone this repo — for example:
-git clone https://github.com/your-username/your-neovim-config.git ~/nvim-config
+git clone git@github.com:kashan16/nvim-config.git
+git ~/nvim-config
 
 # 2. (Optional) Use symlink so Neovim loads it automatically:
 ln -s ~/nvim-config ~/.config/nvim
